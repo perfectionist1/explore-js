@@ -13,4 +13,4 @@ function myFibonacci(n){
 }
 
 let resultArray = myFibonacci(10);
-console.log(resultArray);
+console.log(resultArray);               
