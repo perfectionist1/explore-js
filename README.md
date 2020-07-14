@@ -1,1 +1,1 @@
-# javascript-practice-ref
+# explore-js
